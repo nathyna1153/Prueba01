@@ -1,0 +1,99 @@
+.img_nosotros{
+    width: 273px;
+    height: 204px;
+    margin: 30px;
+}
+.logo_pequeno{
+    width: 100px;
+    height: 30px;;
+}
+.logo_grande{
+    width: 200px;
+    height: 30px;;
+    margin-left: 50px;
+}
+
+.texto_nosotros{
+    margin-top: 30px;
+    color: black;
+    border-radius: 32px;
+    background-color: #E6E6E6;
+    margin-bottom: 10px;
+}
+.texto_objetivos{
+    margin-top: 30px;
+}
+.titulo_quienes_somos{
+    margin-top: 75px;
+    margin-right: 0;
+}
+.seccion_dos{
+    /*background-color: #76dbd1;*/
+    background-image: url('../../assets/img/fondo_nosotros_2.jpg');
+    color: #084B8A;
+}
+.seccion_tres_a{
+    background-color: #76dbd1;
+    color: #084B8A;
+}
+.seccion_tres_b{
+    background-color: #57a99a;
+    color: #084B8A;
+}
+.mensaje{
+    margin-top: 5px;
+}
+.mensaje_det{
+    width: 130px;
+}
+.correo{
+    width: 130px;
+}
+.boton{
+    margin-bottom: 30px;
+}
+.footer{
+    background-color: #555151;
+    color: white;
+}
+
+.fa {
+    padding: 11px;
+    font-size: 27px;
+    width: 47px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+@media (min-width: 992px){
+    .texto_nosotros{
+        margin-left: 55px;
+    }
+    .img_nosotros{
+        width: 234px;
+        height: 175px;
+        margin: 30px;
+    }
+}
+@media (min-width: 768px){
+
+    .img_nosotros{
+        width: 273px;
+        height: 204px;
+        margin: 30px;
+    }
+}
