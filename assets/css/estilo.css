@@ -8,7 +8,7 @@ background-color: #ffccb3;
 	background-color: #FFE4E1;
 }
 .navbar-logo{
-	width: 60px;
+	width: 90px;
 }
 .section1{
 	height: 130px;
@@ -26,6 +26,38 @@ background-color: #ffccb3;
 }
 .sidebar{
 	height: 200px;
+}
+.page-header{
+	margin-top: 80px;
+    text-align: center;
+    height: 150px;
+	border-bottom-width: 0px;
+}
+.header-blog{
+	padding-top: 55px;
+	font-size: 45px;
+}
+.thumbnail-content{
+	text-align: center;
+}
+.section-colab{
+	margin-left: 0px;
+	margin-bottom: 2px;
+	height: 72px;
+	text-align: center;
+	font-family: Chivo-Bold;
+}
+.colab-item{
+	margin-top: 8px;
+	text-align: center;
+	padding: 0px;
+}
+.row{
+	margin-right: 0px;
+	margin-right: 0px;
+}
+.page-header h1{
+	font-family: Chivo-Bold;
 }
 
 
