@@ -5,7 +5,7 @@ background-color: #ffccb3;
 	height: 75px;
 }
 .navbar-color{
-	background-color: #FFE4E1;
+	background-color: #ecf4f3;
 }
 .navbar-logo{
 	width: 90px;
@@ -28,7 +28,7 @@ background-color: #ffccb3;
 	height: 200px;
 }
 .page-header{
-	margin-top: 80px;
+	margin-top: 75px;
     text-align: center;
     height: 150px;
 	border-bottom-width: 0px;
@@ -42,7 +42,6 @@ background-color: #ffccb3;
 }
 .section-colab{
 	margin-left: 0px;
-	margin-bottom: 2px;
 	height: 72px;
 	text-align: center;
 	font-family: Chivo-Bold;
@@ -61,7 +60,3 @@ background-color: #ffccb3;
 }
 
 
-
-#FFA500
-
-#ef9032
