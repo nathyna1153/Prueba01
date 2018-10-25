@@ -12,7 +12,6 @@ background-color: #ffccb3;
 }
 .section1{
 	height: 130px;
-	background-color:#ffff99;
 	text-align: center;
 }
 .footer{
@@ -21,7 +20,6 @@ background-color: #ffccb3;
 .section2{
 	margin-top: 75px;
 	height: 100px;
-	background-color: #ffff99;
 	text-align: center;
 }
 .sidebar{
@@ -39,6 +37,13 @@ background-color: #ffccb3;
 }
 .thumbnail-content{
 	text-align: center;
+}
+.colab_2{
+	padding-top: 20px
+}
+.colab_img{
+	width: 307px;
+	height: 162px !important;
 }
 .section-colab{
 	margin-left: 0px;

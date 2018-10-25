@@ -78,6 +78,14 @@
     background: #55ACEE;
     color: white;
 }
+.carousel-inner > .item > img {
+    width:640px;
+    height:360px;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+}
 
 @media (min-width: 992px){
     .texto_nosotros{
