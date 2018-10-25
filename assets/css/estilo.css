@@ -1,5 +1,6 @@
 body{
 background-color: #ffccb3;
+font-family: Chivo-Regular;
 }
 .navbar-brand_img{
 	height: 47px;
@@ -53,7 +54,11 @@ background-color: #ffccb3;
 }
 .colab_img{
 	width: 307px;
-	height: 162px !important;
+	min-height: 170px;
+}
+.colab_img--corona{
+	min-height: 270px;
+	margin-bottom: 30px;
 }
 .section-colab{
 	margin-left: 0px;
@@ -72,4 +77,13 @@ background-color: #ffccb3;
 }
 .page-header h1{
 	font-family: Chivo-Black.ttf;
+}
+.texto_objetivos{
+	font-size: 21px;
+}
+.section1 h2{
+	font-size: 40px;
+}
+.container{
+	width: 100%;
 }
