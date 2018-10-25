@@ -1,8 +1,13 @@
 body{
 background-color: #ffccb3;
 }
-.navbar-default{
-	height: 75px;
+.navbar-brand_img{
+	height: 47px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.navbar-brand{
+	padding: 0;
 }
 .navbar-color{
 	background-color: #ecf4f3;
@@ -26,7 +31,7 @@ background-color: #ffccb3;
 	height: 200px;
 }
 .page-header{
-	margin-top: 75px;
+	margin-top: 51px;
     text-align: center;
     height: 150px;
 	border-bottom-width: 0px;
@@ -63,5 +68,6 @@ background-color: #ffccb3;
 .page-header h1{
 	font-family: Chivo-Bold;
 }
+
 
 
